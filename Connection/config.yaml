@@ -1,8 +1,0 @@
-folders: 
-  folder_root: "Replace_this_with_full_path"
-  csv_filename: Replace_this_with_file_name_ending_in_csv_or_xlsx
-
-destination:
-  server: "localhost:1433"
-  database: "Replace_this_with_database_name"
-  user: "sa"
