@@ -1,0 +1,8 @@
+folders: 
+  folder_root: 
+  csv_filename: 
+
+destination:
+  server: "localhost:1433"
+  database: 
+  user: "sa"
